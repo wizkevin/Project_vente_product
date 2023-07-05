@@ -11,11 +11,11 @@ pour une entreprise. Les colonnes sont : date, région, produit, quantité vendu
 
 ## Instructions
 
-● Vous pouvez utiliser n'importe quelle bibliothèque Python pour lire le fichier CSV et manipuler les
+- Vous pouvez utiliser n'importe quelle bibliothèque Python pour lire le fichier CSV et manipuler les
 données.
-● Votre programme doit être bien structuré et documenté.
+- Votre programme doit être bien structuré et documenté.
 
 ## BONUS
 
-● Ajouter une fonctionnalité pour afficher les régions avec la plus grande marge bénéficiaire.
-● Ajouter une fonctionnalité pour afficher les dates avec les ventes les plus élevées pour chaque région.
+- Ajouter une fonctionnalité pour afficher les régions avec la plus grande marge bénéficiaire.
+- Ajouter une fonctionnalité pour afficher les dates avec les ventes les plus élevées pour chaque région.
